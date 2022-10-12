@@ -1,0 +1,104 @@
+---
+title: "English Grammar"
+author: "Ajay Koli"
+subtitle: "Nalanda Academy"
+date: "2022-10-12 (updated on `r Sys.Date()`)"
+format: revealjs
+editor: visual
+execute: 
+  echo: false
+---
+
+# Simple Present Tense
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1. वह मोटरसाइकिल चलाता है।
+
+1. वे मांस नहीं भूनते हैं।
+
+1. क्या छात्र अपने शिक्षक को नमस्कार करते हैं?
+
+1. शिक्षक अपने छात्रों की रक्षा नहीं करता है
+
+1. इस तस्वीर में अभिनेता ने अच्छे कपड़े नहीं पहने हैं।
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1. मोहन प्रत्येक रविवार को कपड़े साफ करता है।
+
+1. बंदर पेड़ के पीछे छिप गया।
+
+1. रानी जवाब भूल जाती है।
+
+1. ड्राइवर शीशा पोंछता है।
+
+1. कुत्ता काटता है।
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1. मच्छर मुझे परेशान करते हैं।
+
+1. क्या आप अपने बालों को रंगते हैं?
+
+1. हम रोज टहलने जाते हैं।
+
+1. क्या वह किराए पर रहता है?
+
+1. मेरी मां दही में चीनी मिलाती हैं।
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1. मोबाइल फोन मेरी पढ़ाई में खलल डालता है।
+
+1. चूहा बिल्ली का पीछा करता है।
+
+1. मेरे पापा नाश्ते में अंडे उबालते हैं।
+
+1. क्या वह चिल्लाता है?
+
+1. वह फुटबॉल खेलती है।
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1. वह नागालैंड का रहने वाला है।
+
+1. वे कार्यालय के कर्मचारियों के बारे में गपशप करते हैं।
+
+1. छात्र शिक्षक पर हंसते हैं।
+
+1. राजनेता देश के बारे में लिखते हैं।
+
+1. वह संगीत नहीं सुनती।
+
+
+
+
+
+
+
