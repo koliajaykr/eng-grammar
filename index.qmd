@@ -5,6 +5,7 @@ subtitle: "Nalanda Academy"
 date: "2022-10-12 (updated on `r Sys.Date()`)"
 format: revealjs
 editor: visual
+scrollable: true
 execute: 
   echo: false
 ---
@@ -18,32 +19,15 @@ library(countdown)
 countdown::countdown(minutes = 5, top = 0, font_size = "2em")
 ```
 
-1. वह मोटरसाइकिल चलाता है।
+1.  वह मोटरसाइकिल चलाता है।
 
-1. वे मांस नहीं भूनते हैं।
+2.  वे मांस नहीं भूनते हैं।
 
-1. क्या छात्र अपने शिक्षक को नमस्कार करते हैं?
+3.  क्या छात्र अपने शिक्षक को नमस्कार करते हैं?
 
-1. शिक्षक अपने छात्रों की रक्षा नहीं करता है
+4.  शिक्षक अपने छात्रों की रक्षा नहीं करता है
 
-1. इस तस्वीर में अभिनेता ने अच्छे कपड़े नहीं पहने हैं।
-
-## Simple Present Tense
-
-```{r}
-library(countdown)
-countdown::countdown(minutes = 5, top = 0, font_size = "2em")
-```
-
-1. मोहन प्रत्येक रविवार को कपड़े साफ करता है।
-
-1. बंदर पेड़ के पीछे छिप गया।
-
-1. रानी जवाब भूल जाती है।
-
-1. ड्राइवर शीशा पोंछता है।
-
-1. कुत्ता काटता है।
+5.  इस तस्वीर में अभिनेता ने अच्छे कपड़े नहीं पहने हैं।
 
 ## Simple Present Tense
 
@@ -52,32 +36,15 @@ library(countdown)
 countdown::countdown(minutes = 5, top = 0, font_size = "2em")
 ```
 
-1. मच्छर मुझे परेशान करते हैं।
+1.  मोहन प्रत्येक रविवार को कपड़े साफ करता है।
 
-1. क्या आप अपने बालों को रंगते हैं?
+2.  बंदर पेड़ के पीछे छिप गया।
 
-1. हम रोज टहलने जाते हैं।
+3.  रानी जवाब भूल जाती है।
 
-1. क्या वह किराए पर रहता है?
+4.  ड्राइवर शीशा पोंछता है।
 
-1. मेरी मां दही में चीनी मिलाती हैं।
-
-## Simple Present Tense
-
-```{r}
-library(countdown)
-countdown::countdown(minutes = 5, top = 0, font_size = "2em")
-```
-
-1. मोबाइल फोन मेरी पढ़ाई में खलल डालता है।
-
-1. चूहा बिल्ली का पीछा करता है।
-
-1. मेरे पापा नाश्ते में अंडे उबालते हैं।
-
-1. क्या वह चिल्लाता है?
-
-1. वह फुटबॉल खेलती है।
+5.  कुत्ता काटता है।
 
 ## Simple Present Tense
 
@@ -86,19 +53,228 @@ library(countdown)
 countdown::countdown(minutes = 5, top = 0, font_size = "2em")
 ```
 
-1. वह नागालैंड का रहने वाला है।
+1.  मच्छर मुझे परेशान करते हैं।
 
-1. वे कार्यालय के कर्मचारियों के बारे में गपशप करते हैं।
+2.  क्या आप अपने बालों को रंगते हैं?
 
-1. छात्र शिक्षक पर हंसते हैं।
+3.  हम रोज टहलने जाते हैं।
 
-1. राजनेता देश के बारे में लिखते हैं।
+4.  क्या वह किराए पर रहता है?
 
-1. वह संगीत नहीं सुनती।
+5.  मेरी मां दही में चीनी मिलाती हैं।
 
+## Simple Present Tense
 
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
 
+1.  मोबाइल फोन मेरी पढ़ाई में खलल डालता है।
 
+2.  चूहा बिल्ली का पीछा करता है।
 
+3.  मेरे पापा नाश्ते में अंडे उबालते हैं।
 
+4.  क्या वह चिल्लाता है?
 
+5.  वह फुटबॉल खेलती है।
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = 0, font_size = "2em")
+```
+
+1.  वह नागालैंड का रहने वाला है।
+
+2.  वे कार्यालय के कर्मचारियों के बारे में गपशप करते हैं।
+
+3.  छात्र शिक्षक पर हंसते हैं।
+
+4.  राजनेता देश के बारे में लिखते हैं।
+
+5.  वह संगीत नहीं सुनती
+
+# Date: TEST 8 Nov 2022
+
+<iframe src="https://giphy.com/embed/l2Sq5hjCE8ZnHGYdG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<p><a href="https://giphy.com/gifs/southparkgifs-l2Sq5hjCE8ZnHGYdG">via GIPHY</a></p>
+
+## "To Be" Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "6%", font_size = "2em")
+```
+
+1.  It ......... true.
+2.  They ......... here.
+3.  We .......... busy.
+4.  I ............. ready.
+5.  My aunt ............. nice.
+6.  Ravi and Mohan ................. brothers.
+7.  The ribbon .......... blue.
+8.  You ................ tired.
+
+## "To Be" Present Tense: Negative Form
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "6%", font_size = "2em")
+```
+
+1.  The train ............. full today.
+
+2.  The keys ................ in the car.
+
+3.  The eraser ........... in the pencil case.
+
+4.  She ................ a teacher in my school.
+
+5.  The woman .......... old.
+
+6.  The bowls ........... on the table.
+
+7.  The store .............. far.
+
+8.  It ............ true.
+
+## "To Be" Present Tense: Question Form
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "6%", font_size = "2em")
+```
+
+1.  ............... it cold in Canada?
+
+2.  ................ they in the living room?
+
+3.  ................ the forks in the dishwasher?
+
+4.  ................ the ink in the printer?
+
+5.  ............... the nail polish purple?
+
+6.  ................. I nice?
+
+7.  .................. they there?
+
+8.  ............ the pearls real?
+
+## "To Be" Past Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "6%", font_size = "2em")
+```
+
+1.  He .............. in the shower.
+
+2.  The girls ............ at the skating ring.
+
+3.  The moon .............. bright last night.
+
+4.  My pockets ............. full.
+
+5.  The eggs .............. on the counter.
+
+6.  You ........... at the wedding.
+
+7.  Both pillows ................. soft.
+
+8.  The teachers ........... are in the office.
+
+## Simple Present Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "-6%", font_size = "2em")
+```
+
+1.  My teacher ............. (to explain) everything.
+
+2.  Lisa ............. (to buy) a lot of perfume.
+
+3.  The boys ....... (to obey) the rules in class.
+
+4.  The snow ....... (to melt) in the spring.
+
+5.  They ......... (to earn) a lot of money.
+
+6.  I ......... (to work) in the local bank.
+
+7.  You ....... (to owe) me money.
+
+8.  He ....... (to spoil) his child.
+
+## Simple Present Tense
+
+#### Negative Form
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "-6%", font_size = "2em")
+```
+
+1.  She ............. write to Ajay.
+
+2.  It ............... hurt.
+
+3.  We ............... feed the stray cats.
+
+4.  You ....... laugh a lot.
+
+5.  It ............. belong to you.
+
+6.  I .......... need a towel.
+
+7.  Iron man .......... want cotton candy.
+
+8.  They ......... walk in the morning.
+
+## Simple Present Tense
+
+#### Question Form
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "-6%", font_size = "2em")
+```
+
+1.  .......... Lisa participate at school?
+
+2.  ........... you dog chase cats?
+
+3.  ........... it interest you?
+
+4.  .............. you dye your hair?
+
+5.  .......... they walk to school?
+
+6.  ............. the noise disturb you?
+
+7.  ........... the children like peas?
+
+8.  ............. students hate their English teacher?
+
+## Simple Past Tense
+
+```{r}
+library(countdown)
+countdown::countdown(minutes = 5, top = "-6%", font_size = "2em")
+```
+
+1.  David .......... (to swear) in class today.
+2.  We ............ (to hear) your speech last night, and it was great.
+3.  We ........ (to see) a mouse in the pantry last night.
+4.  I ......... (to begin) my homework after school.
+5.  I ....... (to tidy) the house for my mother.
+6.  I ......... (to decide) to learn English.
+7.  We ........ (to expect) to see you there.
+8.  I was alert and I ........ (to avoid) the collision.
